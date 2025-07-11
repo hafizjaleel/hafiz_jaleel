@@ -1,7 +1,7 @@
 ![MasterHead](./banner.png)
 <h1 align="center">Hi 👋, I'm Hafiz Jaleel</h1>
 <h3 align="center">Full‑stack Developer | MERN & React, AI Enthusiast</h3>
-<img align="right" src="https://cdn.dribbble.com/userupload/21995470/file/original-14a355a456bd14d556fe5487e17e329e.gif" alt="coding" width="400" />
+<img align="right" src="https://camo.githubusercontent.com/3fa4470e5ea1e4e507d4918a8cc9216fa4cf3b687d9302e41bacd95120d0b691/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4434453132415147575a414f6e4c44526151772f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313635363637393834343333383f653d3231343734383336343726763d6265746126743d4c58756943795a6768537068547652526d453756486b653874593964557a316f364e5445726c6262497451" alt="coding" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizjaleel&label=Profile%20views&color=0e75b6&style=flat" alt="hafizjaleel" /> </p>
 
