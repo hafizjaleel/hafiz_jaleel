@@ -1,4 +1,4 @@
-[![MasterHead](./github-header-image.png)]
+[![MasterHead](./banner.png)]
 <h1 align="center">Hi 👋, I'm Hafiz Jaleel</h1>
 <h3 align="center">Full‑stack Developer | MERN & React, AI Enthusiast</h3>
 <img align="right" src="https://images.wakelet.com/resize?id=b9dc57b0-1480-424e-ad72-471c5a496646&w=400&h=300&q=85" alt="coding" width="400" />
